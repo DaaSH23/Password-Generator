@@ -213,8 +213,8 @@ body {
 
 #pass {
     position: absolute;
-    margin-top: 4rem;
-    margin-left: 20rem;
+    margin-top: 4.2rem;
+    margin-left: 15rem;
     font-size: 20px;
     font-weight: 700;
     font-family: 'Roboto Mono', monospace;
@@ -244,7 +244,7 @@ body {
 
 .rf {
     margin-top: 4rem;
-    margin-left: 8rem;
+    margin-left: 6rem;
 }
 
 .rf {
